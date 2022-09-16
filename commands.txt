@@ -8,3 +8,7 @@ git commit -m "message"
 -adding staged files to local repository
 git log
 -displays all the commits
+
+git add -A
+-adding all changes to staging area
+git commit -m 
